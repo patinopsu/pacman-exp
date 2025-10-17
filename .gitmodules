@@ -1,7 +1,7 @@
 [submodule "KernelSU-Next"]
 	path = KernelSU-Next
 	url = https://github.com/patinopsu/KernelSU-Next.git
-	branch = susfs-patch-1.5.12
+	branch = susfs-patch-1.5.11
 [submodule "vendor/mediatek/kernel_modules"]
 	path = vendor/mediatek/kernel_modules
 	url = https://github.com/NothingOSS/android_kernel_modules_nothing_mt6886.git
